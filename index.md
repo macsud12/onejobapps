@@ -9,8 +9,8 @@ permalink: /
 Simple single-purpose apps with no ads and no account setup.
 
 ## Links
-- [Support](/support/)
-- [Privacy Policy](/privacy/)
+- [Support](support.md)
+- [Privacy Policy](privacy.md)
 
 ## Contact
 - onejobappsstudio@gmail.com
