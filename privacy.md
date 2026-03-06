@@ -7,7 +7,7 @@ permalink: /privacy/
 # Privacy Policy
 
 **Developer:** Maksim Alipov  
-**App:** Workout Me: HIIT & Tabata ("Workout Me") 
+**App:** Workout Me: HIIT & Tabata ("Workout Me")  
 **Effective date:** March 3, 2026
 
 One Job Apps Studio built Workout Me as a simple workout timer/planner app. This Privacy Policy explains what data is processed when you use the app.
