@@ -6,8 +6,8 @@ permalink: /support/
 
 # Support
 
-**Developer:** One Job Apps Studio  
-**App:** Workout Me  
+**Developer:** Maksim Alipov  
+**App:** Workout Me: HIIT & Tabata ("Workout Me")  
 **Contact:** onejobappsstudio@gmail.com
 
 ## Contact
