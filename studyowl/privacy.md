@@ -7,7 +7,7 @@ permalink: /studyowl/privacy
 # Privacy Policy
 
 **Developer:** Daniil Alipov  
-**App:** Study Owl
+**App:** Study Owl  
 **Effective date:** March 11, 2026
 
 One Job Apps Studio built Study Owl as a simple homework tracker app. This Privacy Policy explains what data is processed when you use the app.
