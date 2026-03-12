@@ -7,7 +7,7 @@ permalink: /studyowl/support
 # Support
 
 **Developer:** Daniil Alipov  
-**App:** Study Owl 
+**App:** Study Owl  
 **Contact:** onejobappsstudio@gmail.com
 
 ## Contact
