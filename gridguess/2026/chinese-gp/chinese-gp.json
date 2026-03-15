@@ -1,7 +1,12 @@
 {
   "season": 2026,
-  "updatedAt": "2026-03-14",
-  "standings": [
+  "raceId": "chinese-gp",
+  "grandPrixName": "Chinese Grand Prix",
+  "venue": "Shanghai",
+  "round": 2,
+  "lockTime": "2026-03-13T03:00:00Z",
+  "randomDriverId": "ANT",
+  "constructorStandings": [
     {
       "position": 1,
       "team": "Mercedes",
