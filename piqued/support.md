@@ -7,7 +7,7 @@ permalink: /piqued/support/
 # Support
 
 **Developer:** Maksim Alipov  
-**App:** Piqued 
+**App:** Piqued  
 **Contact:** onejobappsstudio@gmail.com
 
 ## Contact
