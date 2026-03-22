@@ -1,13 +1,13 @@
 ---
 layout: default
 title: Support
-permalink: /piqued/support/
+permalink: /bitebloom/support/
 ---
 
 # Support
 
 **Developer:** Maksim Alipov  
-**App:** Piqued  
+**App:** Bite Bloom  
 **Contact:** onejobappsstudio@gmail.com
 
 ## Contact
