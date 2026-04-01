@@ -7,7 +7,7 @@ permalink: /lasthop/support
 # Support
 
 **Developer:** Maksim Alipov  
-**App:** Last Hop 
+**App:** Last Hop  
 **Contact:** onejobappsstudio@gmail.com
 
 ## Contact
